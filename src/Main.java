@@ -1,3 +1,4 @@
+import thread.exercise.Demo;
 import thread.exercise.DemoOne;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
