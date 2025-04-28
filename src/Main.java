@@ -1,12 +1,13 @@
-import thread.exercise.Demo;
+import thread.exercise.DemoOne;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        Demo demo =new Demo();
-
-        demo.test();
+//        Demo demo =new Demo();
+//        demo.test();
+        DemoOne demoOne = new DemoOne();
+        demoOne.test();
 
     }
 }
